@@ -12,8 +12,10 @@ RM飞镖知识库是由xxx发起的一个技术社区开源项目，其旨在收
 ------
 | 领域 | 核心贡献者ID | 学习资源 |
 | ---- | ---- | ---- |
-| 内容1 | 内容2 | 内容3 |
-| 内容4 | 内容5 | 内容6 |
+| 机械 | xxx | <a href="https://docs.qq.com/sheet/DUFlaU0FHZk1QS0l1?tab=bb08j2">机械设计基础</a> |
+| 硬件 | xxx | <a href="https://docs.qq.com/sheet/DUFlaU0FHZk1QS0l1?tab=bb08j2">硬件设计基础</a> |
+| 软件 | xxx | <a href="https://docs.qq.com/sheet/DUFlaU0FHZk1QS0l1?tab=bb08j2">软件设计基础</a> |
+| 算法 | xxx | <a href="https://docs.qq.com/sheet/DUFlaU0FHZk1QS0l1?tab=bb08j2">算法设计基础</a> |
 
 
 
