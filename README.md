@@ -13,7 +13,7 @@ RM飞镖知识库是由xxx发起的一个技术社区开源项目，其旨在收
 | 领域 | 核心贡献者ID | 学习资源 |
 | ---- | ---- | ---- |
 | 机械 | xxx | <a href="https://tomm.muzing.top/">机械原理知识整理</a> |
-| 硬件 | xxx | <a href="https://github.com/rymcu/Nebula-Pi-STM32">零基础入门STM32，基于HAL开发！</a> |
+| 硬件 | xxx | <a href="https://github.com/rymcu/Nebula-Pi-STM32">零基础入门STM32，基于HAL开发！</a>  <br> <a href="https://mool.njust.edu.cn/group1/M00/00/03/CjIGwF249y-AC7uNAFpNzhhz3M0837.pdf">制导原理</a> |
 | 软件 | xxx | <a href="https://github.com/suvllian/computer-science-knowledge">计算机基础知识</a> <br> <a href="https://github.com/CodeAllen999/Linux-C-CPP-Collection">高级嵌入式软件工程师自学之路</a> |
 | 算法 | xxx | <a href="https://charmve.github.io/computer-vision-in-action/#/README">计算机视觉实战演练</a> |
 
@@ -30,9 +30,3 @@ RM飞镖知识库是由xxx发起的一个技术社区开源项目，其旨在收
 本技能图谱遵循 CC-BY-NC-SA 4.0 协议。未经RM组委会授权同意，商业转载必须征得许可，转载时请务必注明出处。RM组委会保留最终解释权及法律追究权力。
 
 
-**参考资料**
-
-制导原理书籍：https://mool.njust.edu.cn/group1/M00/00/03/CjIGwF249y-AC7uNAFpNzhhz3M0837.pdf
-
-
-导弹末制导系统探测制导虚拟仿真实验：https://mool.njust.edu.cn/exp/210.html
