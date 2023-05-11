@@ -13,9 +13,9 @@ RM飞镖知识库是由xxx发起的一个技术社区开源项目，其旨在收
 | 领域 | 核心贡献者ID | 学习资源 |
 | ---- | ---- | ---- |
 | 机械 | xxx | <a href="https://tomm.muzing.top/">机械原理知识整理</a> |
-| 硬件 | xxx | <a href="https://docs.qq.com/sheet/DUFlaU0FHZk1QS0l1?tab=bb08j2">零基础入门STM32，基于HAL开发！</a> |
-| 软件 | xxx | <a href="https://docs.qq.com/sheet/DUFlaU0FHZk1QS0l1?tab=bb08j2">软件设计基础</a> |
-| 算法 | xxx | <a href="https://docs.qq.com/sheet/DUFlaU0FHZk1QS0l1?tab=bb08j2">算法设计基础</a> |
+| 硬件 | xxx | <a href="https://github.com/rymcu/Nebula-Pi-STM32">零基础入门STM32，基于HAL开发！</a> |
+| 软件 | xxx | <a href="https://github.com/suvllian/computer-science-knowledge">计算机基础知识</a> |
+| 算法 | xxx | <a href="https://github.com/CodeAllen999/Linux-C-CPP-Collection">高级嵌入式软件工程师自学之路</a> |
 
 欢迎加入我们
 
